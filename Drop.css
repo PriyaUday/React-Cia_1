@@ -1,0 +1,27 @@
+.flex {
+    display: inline-flex;
+  }
+  .Drop_down{
+    margin-left: 50px;
+    margin-right: 300px;
+    margin-top: 00px;
+    padding: 20px;
+  }
+  .box{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    padding-left: 200px;
+  }
+  .log{
+    width: 700px;
+    height: 450px;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    
+    margin:auto;
+    padding: 60px;
+    background-image: url(img.jpeg);
+    border-radius: 15px;
+    color:black;
+  }
